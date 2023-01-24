@@ -814,6 +814,10 @@ a {
     .footer-block h4 {
         padding: 5px;
     }
+
+    .footer-block a:hover {
+        text-decoration: underline 2px;
+    }
 }
 
 /*# sourceMappingURL=style.css.map */
